@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +69,7 @@
       <workItem from="1600778419344" duration="1747000" />
       <workItem from="1600780827550" duration="13218000" />
       <workItem from="1600809578710" duration="5561000" />
-      <workItem from="1601029335768" duration="306000" />
+      <workItem from="1601029335768" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1600613556691</created>
@@ -103,13 +105,15 @@
       <screen x="0" y="23" width="5120" height="1361" />
     </state>
     <state x="2848" y="438" key="#com.intellij.fileTypes.FileTypeChooser/0.23.5120.1361@0.23.5120.1361" timestamp="1600791720977" />
-    <state x="2251" y="202" key="SettingsEditor" timestamp="1600780816351">
-      <screen x="0" y="23" width="5120" height="1361" />
+    <state x="362" y="25" width="1216" height="955" key="SettingsEditor" timestamp="1601029899306">
+      <screen x="0" y="25" width="1680" height="955" />
     </state>
     <state x="2251" y="202" key="SettingsEditor/0.23.5120.1361@0.23.5120.1361" timestamp="1600780816351" />
-    <state x="2937" y="375" key="Vcs.Push.Dialog.v2" timestamp="1600613531425">
-      <screen x="0" y="23" width="5120" height="1361" />
+    <state x="362" y="25" width="1216" height="955" key="SettingsEditor/0.25.1680.955@0.25.1680.955" timestamp="1601029899306" />
+    <state x="680" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601029356806">
+      <screen x="0" y="25" width="1680" height="955" />
     </state>
     <state x="2937" y="375" key="Vcs.Push.Dialog.v2/0.23.5120.1361@0.23.5120.1361" timestamp="1600613531425" />
+    <state x="680" y="272" key="Vcs.Push.Dialog.v2/0.25.1680.955@0.25.1680.955" timestamp="1601029356806" />
   </component>
 </project>
