@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-body{
+* body{
   font-family: "Times New Roman", Monospaced, serif;
   background: #abdde5;
 }

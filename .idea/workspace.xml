@@ -22,8 +22,7 @@
     <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,8 @@
       <workItem from="1601037910044" duration="6089000" />
       <workItem from="1601132465021" duration="6172000" />
       <workItem from="1601140321751" duration="1109000" />
-      <workItem from="1601141623809" duration="1688000" />
+      <workItem from="1601141623809" duration="2461000" />
+      <workItem from="1601148173827" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1600613556691</created>
