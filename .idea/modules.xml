@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Downloads/Boostrap_Portfolio_2of2-master/.idea/Boostrap_Portfolio_2of2-master.iml" filepath="$USER_HOME$/Downloads/Boostrap_Portfolio_2of2-master/.idea/Boostrap_Portfolio_2of2-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UofU_Bootcamp_HW2.iml" filepath="$PROJECT_DIR$/.idea/UofU_Bootcamp_HW2.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/bootstrap_sandbox_final/.idea/bootstrap_sandbox_final.iml" filepath="$USER_HOME$/Downloads/bootstrap_sandbox_final/.idea/bootstrap_sandbox_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/bootstrap_sandbox_final/.idea/bootstrap_sandbox_final.iml" filepath="$PROJECT_DIR$/../Downloads/bootstrap_sandbox_final/.idea/bootstrap_sandbox_final.iml" />
     </modules>
   </component>
 </project>
