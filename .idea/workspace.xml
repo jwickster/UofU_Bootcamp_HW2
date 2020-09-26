@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial" />
+    <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,7 @@
       <workItem from="1601140321751" duration="1109000" />
       <workItem from="1601141623809" duration="2461000" />
       <workItem from="1601148173827" duration="1157000" />
-      <workItem from="1601150149243" duration="2000" />
+      <workItem from="1601150149243" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1600613556691</created>
@@ -131,14 +133,23 @@
     </state>
     <state x="2251" y="202" key="SettingsEditor/0.23.5120.1361@0.23.5120.1361" timestamp="1600780816351" />
     <state x="362" y="25" width="1216" height="955" key="SettingsEditor/0.25.1680.955@0.25.1680.955" timestamp="1601029899306" />
-    <state x="680" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601029356806">
-      <screen x="0" y="25" width="1680" height="955" />
+    <state x="829" y="331" key="Vcs.Push.Dialog.v2" timestamp="1601150706699">
+      <screen x="0" y="23" width="2048" height="1191" />
     </state>
+    <state x="829" y="331" key="Vcs.Push.Dialog.v2/0.23.2048.1191@0.23.2048.1191" timestamp="1601150706699" />
     <state x="2937" y="375" key="Vcs.Push.Dialog.v2/0.23.5120.1361@0.23.5120.1361" timestamp="1600613531425" />
     <state x="680" y="272" key="Vcs.Push.Dialog.v2/0.25.1680.955@0.25.1680.955" timestamp="1601029356806" />
     <state x="356" y="71" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1601030557461">
       <screen x="0" y="25" width="1680" height="955" />
     </state>
     <state x="356" y="71" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.25.1680.955@0.25.1680.955" timestamp="1601030557461" />
+    <state x="801" y="522" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601150718796">
+      <screen x="0" y="23" width="2048" height="1191" />
+    </state>
+    <state x="801" y="522" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1191@0.23.2048.1191" timestamp="1601150718796" />
+    <state x="604" y="284" key="run.anything.popup" timestamp="1601150739041">
+      <screen x="0" y="23" width="2048" height="1191" />
+    </state>
+    <state x="604" y="284" key="run.anything.popup/0.23.2048.1191@0.23.2048.1191" timestamp="1601150739041" />
   </component>
 </project>
