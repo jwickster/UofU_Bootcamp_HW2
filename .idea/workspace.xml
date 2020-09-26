@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.html" afterDir="false" />
-    </list>
+    <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +80,7 @@
       <workItem from="1601140321751" duration="1109000" />
       <workItem from="1601141623809" duration="2461000" />
       <workItem from="1601148173827" duration="1157000" />
+      <workItem from="1601150149243" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1600613556691</created>
@@ -118,9 +117,10 @@
       <screen x="0" y="23" width="5120" height="1361" />
     </state>
     <state x="2848" y="438" key="#com.intellij.fileTypes.FileTypeChooser/0.23.5120.1361@0.23.5120.1361" timestamp="1600791720977" />
-    <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601136405680">
-      <screen x="0" y="23" width="5120" height="1351" />
+    <state x="385" y="287" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601150148177">
+      <screen x="0" y="23" width="2048" height="1191" />
     </state>
+    <state x="385" y="287" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2048.1191@0.23.2048.1191" timestamp="1601150148177" />
     <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.5120.1351@0.23.5120.1351" timestamp="1601136405680" />
     <state x="529" y="345" width="653" height="324" key="Github.CreatePullRequestDialog" timestamp="1601030571727">
       <screen x="0" y="25" width="1680" height="955" />
