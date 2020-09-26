@@ -2,7 +2,13 @@
   box-sizing: border-box;
 }
 
+body{
+  font-family: "Times New Roman", Monospaced, serif;
+  background: #0c5460;
+}
+
 .test {
   text-align: center;
 
 }
+
