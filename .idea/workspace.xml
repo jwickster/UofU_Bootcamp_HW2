@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71209bff-36ce-4cbb-8346-dad41c4e0824" name="Default Changelist" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/assets/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pic6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Penguin1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/penguin2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +79,7 @@
       <workItem from="1600809578710" duration="5561000" />
       <workItem from="1601029335768" duration="1919000" />
       <workItem from="1601037910044" duration="6089000" />
-      <workItem from="1601132465021" duration="1876000" />
+      <workItem from="1601132465021" duration="5285000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1600613556691</created>
@@ -115,17 +108,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="updated portforlio.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated portforlio.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2848" y="438" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600791720977">
       <screen x="0" y="23" width="5120" height="1361" />
     </state>
     <state x="2848" y="438" key="#com.intellij.fileTypes.FileTypeChooser/0.23.5120.1361@0.23.5120.1361" timestamp="1600791720977" />
-    <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601044972579">
+    <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601136405680">
       <screen x="0" y="23" width="5120" height="1351" />
     </state>
-    <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.5120.1351@0.23.5120.1351" timestamp="1601044972579" />
+    <state x="962" y="323" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.5120.1351@0.23.5120.1351" timestamp="1601136405680" />
     <state x="529" y="345" width="653" height="324" key="Github.CreatePullRequestDialog" timestamp="1601030571727">
       <screen x="0" y="25" width="1680" height="955" />
     </state>
